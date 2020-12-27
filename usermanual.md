@@ -4,7 +4,7 @@
 * [wat voor soort framework is dit](#wat-voor-soort-framework-is-dit)
 * [de 6 fases](#de-6-fases)
 * [Nuttige tools voor Cloud governance framework](#Nuttige-tools-voor-Cloud-governance-framework)
-* [Wat zijn de sterke punten en zwakte punten van Microsoft Cloud Adoption Framework voor Azure](#Wat-zijn-de-sterke-punten-en-zwakte-punten-van-Microsoft-Cloud-Adoption-Framework-voor-Azure)
+* [Wat zijn de sterke punten en zwakke punten van Microsoft Cloud Adoption Framework voor Azure](#Wat-zijn-de-sterke-punten-en-zwakte-punten-van-Microsoft-Cloud-Adoption-Framework-voor-Azure)
 * [Wat is de vergelijking met AWS Cloud Adoption Framework](#Wat-is-de-vergelijking-met-AWS-Cloud-Adoption-Framework)
 
 # inleiding 
@@ -41,7 +41,8 @@ u kunt hiervoor ook een blueprint kunnen gebruiken, met een blueprint laat u Azu
 
 Waarom gaat u naar de Cloud, er zijn twee motivaties:
 
-Migratie: Uw bedrijf gaat uw bestaande applicaties naar de Cloud migreren. u begint met een paar applicaties en gaat daarna de rest doen met de ervaring die u gekregen hebt. 
+**Migratie**
+: Uw bedrijf gaat uw bestaande applicaties naar de Cloud migreren. u begint met een paar applicaties en gaat daarna de rest doen met de ervaring die u gekregen hebt. 
 Innovation: U wilt focussen op een moderne omgeving en product innovatie en u wilt Cloud daarvoor gebruiken 
 
 **Govern:** 
@@ -68,7 +69,7 @@ Het resultaat wordt weergegeven in current state en desired state en laat ook zi
 
 ![benchmark tool](https://azurecomcdn.azureedge.net/cvt-2881b2a529b708c1f6ca6ce54d3368d6a0b5536105a12d7c023e5ab6fef6e4e5/images/page/cloud-adoption-framework/value-prop-3.png)
 
-# Wat zijn de sterke punten en zwaktepunten van Microsoft Cloud Adoption Framework voor Azure
+# Wat zijn de sterke punten en zwakte punten van Microsoft Cloud Adoption Framework voor Azure
 
 Een van de sterkste punten van dit framework is dat het direct geïntegreerd is met Azure want het makkelijker maakt om te implementeren. Bij de Journeytracker krijgt u direct advies hoe u dit moet implementeren, Azure heeft blueprints die het versimpelen om een omgeving te maken die voldoet aan ISO standaarden en Azure heeft meerdere functies in het portal die u kunnen helpen zoals Quickstart. 
 
