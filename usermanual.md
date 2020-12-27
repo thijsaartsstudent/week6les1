@@ -1,21 +1,21 @@
 # User manual voor Microsoft Cloud Adoption Framework for Azure 
 ## inhoudsopgave
-* [inleiding](#inleiding) 
-* [wat voor soort framework is dit](#wat-voor-soort-framework-is-dit)
-* [de 6 fases](#de-6-fases)
+* [Inleiding](#inleiding) 
+* [Wat voor soort framework is dit](#wat-voor-soort-framework-is-dit)
+* [De 6 fases](#de-6-fases)
 * [Nuttige tools voor Cloud governance framework](#Nuttige-tools-voor-Cloud-governance-framework)
 * [Wat zijn de sterke punten en zwakke punten van Microsoft Cloud Adoption Framework voor Azure](#Wat-zijn-de-sterke-punten-en-zwakte-punten-van-Microsoft-Cloud-Adoption-Framework-voor-Azure)
 * [Wat is de vergelijking met AWS Cloud Adoption Framework](#Wat-is-de-vergelijking-met-AWS-Cloud-Adoption-Framework)
 
-# inleiding 
+# Inleiding 
 Microsoft Cloud Adoption Framework for Azure is een framework die gemaakt is door Microsoft. Dit framework is onderverdeeld in 6 fases zoals u hieronder ziet. De reden dat het onderverdeeld is in verschillende fases is zodat elk bedrijf dit framework kan gebruiken onafhankelijk van hoe volwassen hun Cloudomgeving is om beter governance te krijgen. Als u voor het eerst een omgeving maakt in Azure kunt u beginnen bij het begin met define strategy of als u al voor jaren een Cloud omgeving hebt bij Azure maar het beheren van uw omgeving wilt verbeteren kunt u kijken naar govern of manage gedeelte van het framework. 
 
 ![image of the azureframwork](https://docs.microsoft.com/nl-nl/azure/cloud-adoption-framework/_images/caf-overview-new.png)
 
 # wat voor soort framework is dit
 Dit framework is vooral gemaakt voor het migreren naar de Azure Cloud omgeving. Ook al dekt het een groot deel van de aspecten van Cloud governance af wordt er weinig gezegd over security, het is de bedoeling dat uw zelf de applicatie veilig maakt terwijl de security van de omgeving door Azure zelf wordt geregeld. 
-# de 6 fases 
-de 6 fases zijn samen te vatten in een zin “define your strategy, make a plan, ready your organization, adopt the cloud, and govern and manage your digital estate.”
+# De 6 fases 
+De 6 fases zijn samen te vatten in een zin “define your strategy, make a plan, ready your organization, adopt the cloud, and govern and manage your digital estate.”
 
 **Define strategy:**
 
